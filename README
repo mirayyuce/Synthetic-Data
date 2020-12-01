@@ -1,0 +1,9 @@
+Sysnthetic Data Generation
+
+Approach 1:
+Creates a synthetic copy of whole data using KNN
+
+Approach 2:
+Creates a synthetic copy of train set using VAE
+
+Both approaches tests the synthetic data against a held out test set using KNN and Random Forest Classifier
